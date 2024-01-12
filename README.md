@@ -1,4 +1,4 @@
-# Random Name React DEMO here: https://yde3bc.csb.app/
+# Random Name React demo: https://yde3bc.csb.app/
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
