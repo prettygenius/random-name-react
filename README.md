@@ -1,4 +1,4 @@
-#Random Name React DEMO here: https://yde3bc.csb.app/
+# Random Name React DEMO here: https://yde3bc.csb.app/
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
@@ -10,7 +10,7 @@
 ## Technologies Used
 
 - [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
+- [Create React App](https://create-react-app.dev/)
 
 
 ## Getting Started
@@ -19,13 +19,16 @@
 
 ```bash
 git clone https://github.com/prettygenius/random-name-react.git
-cd useRefReact
+
 ```
 Install dependencies:
 ```
-npm install
+npx create-react-app random-name-react
+```
+```
+cd random-name-react
 ```
 ``` 
-npm run dev
+npm start
 ```
-# React + Vite
+# React + Create React App
